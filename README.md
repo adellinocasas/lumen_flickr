@@ -46,5 +46,5 @@ Development of application for listing photos with pagination using Api from Fli
 
 
 
-(please note: for brevety reasons: translated by Google )
+(please note: for brevity reason the text above was translated by Google )
 
